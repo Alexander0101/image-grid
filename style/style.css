@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+}
+
+.ba-container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+
+.row {
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+.ba-grid {
+    float: left;
+    padding: 0 5px;
+}
+
+.ba-grid.size-50 {
+    width: 50%;
+}
+
+.ba-grid.size-66 {
+    width: 66.6%;
+}
+
+.ba-grid.size-33 {
+    width: 33.3%;
+}
+
+.ba-grid.size-25 {
+    width: 25%;
+}
+
+.ba-grid.size-20 {
+    width: 20%;
+}
+
+.ba-grid.size-16 {
+    width: 16.6%;
+}
+
+.ba-grid.height135 {
+    height: 135px;
+}
+
+.ba-grid.height150 {
+    height: 150px;
+}
+
+.ba-grid.height165 {
+    height: 165px;
+}
+
+.ba-grid.height185 {
+    height: 185px;
+}
+
